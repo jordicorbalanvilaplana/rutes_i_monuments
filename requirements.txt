@@ -1,5 +1,6 @@
 staticmap
 os
+geopy
 typing
 dataclasses
 requests
