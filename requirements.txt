@@ -1,0 +1,16 @@
+staticmap
+os
+typing
+dataclasses
+requests
+re
+gpxpy 
+pandas
+bs4 
+numpy
+networkx
+simplekml
+sklearn
+haversine
+csv
+
